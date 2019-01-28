@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Zepya</title>
-    <link href="https://JoCharlet.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://JoCharlet.github.io/gh-pages" />
-    <updated>2019-01-28T19:33:33+01:00</updated>
+    <link href="https://JoCharlet.github.io/zapya/feed.xml" rel="self" />
+    <link href="https://JoCharlet.github.io/zapya" />
+    <updated>2019-01-28T19:34:25+01:00</updated>
     <author>
         <name>Zepya</name>
     </author>
-    <id>https://JoCharlet.github.io/gh-pages</id>
+    <id>https://JoCharlet.github.io/zapya</id>
 
     <entry>
         <title>Tawk.to</title>
         <author>
             <name>Zepya</name>
         </author>
-        <link href="https://JoCharlet.github.io/gh-pages/tawkto.html"/>
-        <id>https://JoCharlet.github.io/gh-pages/tawkto.html</id>
+        <link href="https://JoCharlet.github.io/zapya/tawkto.html"/>
+        <id>https://JoCharlet.github.io/zapya/tawkto.html</id>
 
         <updated>2019-01-28T19:11:28+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/gh-pages/media/posts/7/" alt="" />
+                        <img src="https://JoCharlet.github.io/zapya/media/posts/7/" alt="" />
                     CervinLorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/gh-pages/media/posts/7/" alt="" />
+                    <img src="https://JoCharlet.github.io/zapya/media/posts/7/" alt="" />
                 <div id="lipsum">
-<figure class="post__image post__image--full" ><img src="https://JoCharlet.github.io/gh-pages/media/posts/7/exemple.jpg" alt="" width="5184" height="2916">
+<figure class="post__image post__image--full" ><img src="https://JoCharlet.github.io/zapya/media/posts/7/exemple.jpg" alt="" width="5184" height="2916">
 <figcaption >Cervin</figcaption>
 </figure>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>
@@ -45,19 +45,19 @@
         <author>
             <name>Zepya</name>
         </author>
-        <link href="https://JoCharlet.github.io/gh-pages/nom-de-domaine-avec-github-pages.html"/>
-        <id>https://JoCharlet.github.io/gh-pages/nom-de-domaine-avec-github-pages.html</id>
+        <link href="https://JoCharlet.github.io/zapya/nom-de-domaine-avec-github-pages.html"/>
+        <id>https://JoCharlet.github.io/zapya/nom-de-domaine-avec-github-pages.html</id>
 
         <updated>2019-01-28T19:07:38+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/gh-pages/media/posts/6/" alt="" />
+                        <img src="https://JoCharlet.github.io/zapya/media/posts/6/" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/gh-pages/media/posts/6/" alt="" />
+                    <img src="https://JoCharlet.github.io/zapya/media/posts/6/" alt="" />
                 <div id="lipsum">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>
 <p>Nunc a lectus euismod felis faucibus malesuada auctor ut metus. Proin hendrerit tempor elit, congue dignissim metus elementum vitae. Nam aliquam vitae leo non iaculis. Curabitur faucibus facilisis massa quis lobortis. Nulla ac dignissim lorem, vitae tincidunt dolor. Fusce lacinia fringilla sem, sit amet posuere leo lacinia tempus. Integer elit justo, sollicitudin eget dictum et, sollicitudin non magna. Cras a accumsan ante.</p>
@@ -73,19 +73,19 @@
         <author>
             <name>Zepya</name>
         </author>
-        <link href="https://JoCharlet.github.io/gh-pages/choisir-un-nom-de-domaine.html"/>
-        <id>https://JoCharlet.github.io/gh-pages/choisir-un-nom-de-domaine.html</id>
+        <link href="https://JoCharlet.github.io/zapya/choisir-un-nom-de-domaine.html"/>
+        <id>https://JoCharlet.github.io/zapya/choisir-un-nom-de-domaine.html</id>
 
         <updated>2019-01-28T19:07:06+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/gh-pages/media/posts/5/" alt="" />
+                        <img src="https://JoCharlet.github.io/zapya/media/posts/5/" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/gh-pages/media/posts/5/" alt="" />
+                    <img src="https://JoCharlet.github.io/zapya/media/posts/5/" alt="" />
                 <div id="lipsum">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>
 <p>Nunc a lectus euismod felis faucibus malesuada auctor ut metus. Proin hendrerit tempor elit, congue dignissim metus elementum vitae. Nam aliquam vitae leo non iaculis. Curabitur faucibus facilisis massa quis lobortis. Nulla ac dignissim lorem, vitae tincidunt dolor. Fusce lacinia fringilla sem, sit amet posuere leo lacinia tempus. Integer elit justo, sollicitudin eget dictum et, sollicitudin non magna. Cras a accumsan ante.</p>
@@ -101,19 +101,19 @@
         <author>
             <name>Zepya</name>
         </author>
-        <link href="https://JoCharlet.github.io/gh-pages/github-pages.html"/>
-        <id>https://JoCharlet.github.io/gh-pages/github-pages.html</id>
+        <link href="https://JoCharlet.github.io/zapya/github-pages.html"/>
+        <id>https://JoCharlet.github.io/zapya/github-pages.html</id>
 
         <updated>2019-01-28T19:08:31+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/gh-pages/media/posts/4/" alt="" />
+                        <img src="https://JoCharlet.github.io/zapya/media/posts/4/" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/gh-pages/media/posts/4/" alt="" />
+                    <img src="https://JoCharlet.github.io/zapya/media/posts/4/" alt="" />
                 <div id="lipsum">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>
 <p>Nunc a lectus euismod felis faucibus malesuada auctor ut metus. Proin hendrerit tempor elit, congue dignissim metus elementum vitae. Nam aliquam vitae leo non iaculis. Curabitur faucibus facilisis massa quis lobortis. Nulla ac dignissim lorem, vitae tincidunt dolor. Fusce lacinia fringilla sem, sit amet posuere leo lacinia tempus. Integer elit justo, sollicitudin eget dictum et, sollicitudin non magna. Cras a accumsan ante.</p>
@@ -129,19 +129,19 @@
         <author>
             <name>Zepya</name>
         </author>
-        <link href="https://JoCharlet.github.io/gh-pages/publii.html"/>
-        <id>https://JoCharlet.github.io/gh-pages/publii.html</id>
+        <link href="https://JoCharlet.github.io/zapya/publii.html"/>
+        <id>https://JoCharlet.github.io/zapya/publii.html</id>
 
         <updated>2019-01-28T19:06:58+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/gh-pages/media/posts/3/" alt="" />
+                        <img src="https://JoCharlet.github.io/zapya/media/posts/3/" alt="" />
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/gh-pages/media/posts/3/" alt="" />
+                    <img src="https://JoCharlet.github.io/zapya/media/posts/3/" alt="" />
                 <div id="lipsum">
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>
 <p>Nunc a lectus euismod felis faucibus malesuada auctor ut metus. Proin hendrerit tempor elit, congue dignissim metus elementum vitae. Nam aliquam vitae leo non iaculis. Curabitur faucibus facilisis massa quis lobortis. Nulla ac dignissim lorem, vitae tincidunt dolor. Fusce lacinia fringilla sem, sit amet posuere leo lacinia tempus. Integer elit justo, sollicitudin eget dictum et, sollicitudin non magna. Cras a accumsan ante.</p>
