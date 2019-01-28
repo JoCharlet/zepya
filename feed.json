@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://JoCharlet.github.io/zepya/disqus.html",
+            "url": "https://JoCharlet.github.io/zepya/disqus.html",
+            "title": "disqus",
+            "summary": "lorem ipsum Please enable JavaScript to view the comments powered by Disqus.",
+            "content_html": "<p>lorem ipsum</p>\n<p> </p>\n<p> </p>\n<div id=\"disqus_thread\"> </div>\n<script>// <![CDATA[\n/**\n*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.\n*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/\n/*\nvar disqus_config = function () {\nthis.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable\nthis.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable\n};\n*/\n(function() { // DON'T EDIT BELOW THIS LINE\nvar d = document, s = d.createElement('script');\ns.src = 'https://zepya.disqus.com/embed.js';\ns.setAttribute('data-timestamp', +new Date());\n(d.head || d.body).appendChild(s);\n})();\n// ]]></script>\n<noscript>Please enable JavaScript to view the <a href=\"https://disqus.com/?ref_noscript\">comments powered by Disqus.</a></noscript>",
+            "image": "https://JoCharlet.github.io/zepya/media/posts/8/",
+            "author": {
+                "name": "Zepya"
+            },
+            "tags": [
+            ],
+            "date_published": "2019-01-28T19:44:58+01:00",
+            "date_modified": "2019-01-28T19:45:46+01:00"
+        },
+        {
             "id": "https://JoCharlet.github.io/zepya/tawkto.html",
             "url": "https://JoCharlet.github.io/zepya/tawkto.html",
             "title": "Tawk.to",
@@ -22,7 +37,7 @@
             "tags": [
             ],
             "date_published": "2019-01-28T19:08:49+01:00",
-            "date_modified": "2019-01-28T19:11:28+01:00"
+            "date_modified": "2019-01-28T19:38:55+01:00"
         },
         {
             "id": "https://JoCharlet.github.io/zepya/nom-de-domaine-avec-github-pages.html",

@@ -3,12 +3,55 @@
     <title>Zepya</title>
     <link href="https://JoCharlet.github.io/zepya/feed.xml" rel="self" />
     <link href="https://JoCharlet.github.io/zepya" />
-    <updated>2019-01-28T19:34:56+01:00</updated>
+    <updated>2019-01-28T19:47:39+01:00</updated>
     <author>
         <name>Zepya</name>
     </author>
     <id>https://JoCharlet.github.io/zepya</id>
 
+    <entry>
+        <title>disqus</title>
+        <author>
+            <name>Zepya</name>
+        </author>
+        <link href="https://JoCharlet.github.io/zepya/disqus.html"/>
+        <id>https://JoCharlet.github.io/zepya/disqus.html</id>
+
+        <updated>2019-01-28T19:45:46+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JoCharlet.github.io/zepya/media/posts/8/" alt="" />
+                    lorem ipsum Please enable JavaScript to view the comments powered by Disqus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://JoCharlet.github.io/zepya/media/posts/8/" alt="" />
+                <p>lorem ipsum</p>
+<p> </p>
+<p> </p>
+<div id="disqus_thread"> </div>
+<script>// <![CDATA[
+/**
+*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+s.src = 'https://zepya.disqus.com/embed.js';
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+// ]]></script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Tawk.to</title>
         <author>
@@ -17,7 +60,7 @@
         <link href="https://JoCharlet.github.io/zepya/tawkto.html"/>
         <id>https://JoCharlet.github.io/zepya/tawkto.html</id>
 
-        <updated>2019-01-28T19:11:28+01:00</updated>
+        <updated>2019-01-28T19:38:55+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JoCharlet.github.io/zepya/media/posts/7/" alt="" />
