@@ -29,8 +29,8 @@
             "id": "https://JoCharlet.github.io/zepya/disqus/",
             "url": "https://JoCharlet.github.io/zepya/disqus/",
             "title": "disqus - ajouter des commentaires dans Publii",
-            "summary": "lorem ipsum Please enable JavaScript to view the comments powered by Disqus.",
-            "content_html": "<p>lorem ipsum</p>\n<p> </p>\n<p> </p>\n<div id=\"disqus_thread\"> </div>\n<script>// <![CDATA[\n/**\n*  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.\n*  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/\n/*\nvar disqus_config = function () {\nthis.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable\nthis.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable\n};\n*/\n(function() { // DON'T EDIT BELOW THIS LINE\nvar d = document, s = d.createElement('script');\ns.src = 'https://zepya.disqus.com/embed.js';\ns.setAttribute('data-timestamp', +new Date());\n(d.head || d.body).appendChild(s);\n})();\n// ]]></script>\n<noscript>Please enable JavaScript to view the <a href=\"https://disqus.com/?ref_noscript\">comments powered by Disqus.</a></noscript>",
+            "summary": "lorem ipsum ",
+            "content_html": "<p>lorem ipsum</p>\n<p> </p>\n<p> </p>",
             "image": "https://JoCharlet.github.io/zepya/media/posts/8/",
             "author": {
                 "name": "Jonathan Charlet"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2019-01-28T19:44:58+01:00",
-            "date_modified": "2019-01-28T19:51:34+01:00"
+            "date_modified": "2019-01-28T21:02:10+01:00"
         },
         {
             "id": "https://JoCharlet.github.io/zepya/tawkto/",
@@ -91,14 +91,16 @@
             "title": "GitHub Pages",
             "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae&hellip;",
             "content_html": "<div id=\"lipsum\">\n<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut in leo eleifend, volutpat velit vel, eleifend urna. Aenean urna mauris, ultricies in accumsan in, tempus vitae orci. Etiam erat massa, tincidunt et massa in, mattis faucibus dui. In eleifend euismod augue. Etiam ultricies, ante vitae porta pretium, nisl tortor posuere est, in dapibus ipsum augue eget mauris. Quisque eu vulputate ligula. Nunc facilisis eros sit amet velit faucibus, et posuere elit posuere. Phasellus odio erat, porta porta ultricies sit amet, dapibus vehicula est. Proin nec quam finibus, cursus dui eu, pulvinar dolor. Morbi efficitur, mauris eget finibus pellentesque, lorem turpis mollis nulla, vel gravida leo augue a augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer imperdiet, elit non pulvinar aliquet, sem nulla laoreet leo, ut interdum diam sapien quis dolor. Phasellus sed neque bibendum, vulputate ex vitae, sollicitudin mi.</p>\n<p>Nunc a lectus euismod felis faucibus malesuada auctor ut metus. Proin hendrerit tempor elit, congue dignissim metus elementum vitae. Nam aliquam vitae leo non iaculis. Curabitur faucibus facilisis massa quis lobortis. Nulla ac dignissim lorem, vitae tincidunt dolor. Fusce lacinia fringilla sem, sit amet posuere leo lacinia tempus. Integer elit justo, sollicitudin eget dictum et, sollicitudin non magna. Cras a accumsan ante.</p>\n<p>Proin quis mauris in urna pharetra dictum ut sed nunc. Vestibulum nec quam ut tellus blandit egestas eu eget dolor. Pellentesque varius ante vitae interdum mollis. Sed ullamcorper dapibus est, eu interdum lorem porttitor in. Donec et pulvinar est. Phasellus sed pellentesque nunc. Etiam a commodo ipsum, vel aliquam augue. Proin sit amet eros dignissim, lobortis nulla vitae, lobortis elit. Nunc imperdiet nisl at felis iaculis dictum. Aenean consequat, metus tristique ultrices lobortis, lacus nisi vehicula nisi, quis eleifend urna leo in lacus. Proin interdum molestie condimentum. Nulla facilisi. Phasellus blandit arcu ex, at ornare nibh pharetra a. Maecenas venenatis elit id imperdiet vestibulum. Aliquam eleifend ornare vehicula. Cras eros nisl, pharetra quis sapien ac, rhoncus aliquam turpis.</p>\n<p>Pellentesque euismod augue vitae tortor placerat, sit amet semper risus vulputate. Nulla cursus ipsum et quam maximus placerat. Duis gravida blandit ipsum, eu mollis risus suscipit cursus. Duis ullamcorper velit eu lacus mollis, nec viverra nibh pellentesque. Curabitur ut quam a ante tristique faucibus tempor id libero. Donec et justo non purus sodales venenatis eu vel tortor. Sed id maximus lorem.</p>\n<p>Maecenas lacus massa, aliquet porta nisl ac, ornare elementum velit. Pellentesque a imperdiet leo. Vivamus metus nulla, efficitur eu diam vitae, pretium euismod tellus. Vivamus laoreet metus nisl, ut suscipit leo gravida id. Praesent ac ipsum et mi rhoncus tempor. Integer tortor odio, interdum a enim a, vestibulum mollis mi. Duis efficitur, sem in feugiat varius, magna erat congue neque, in mollis urna lacus a leo. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Maecenas suscipit, quam vel mollis euismod, lacus erat viverra lectus, ac fringilla elit neque in nisl. Vestibulum suscipit pulvinar urna, mollis porttitor nibh vulputate vitae. In a nibh velit. Aliquam et lacus venenatis, accumsan odio quis, porttitor metus. Sed condimentum tristique ultricies. Aliquam vitae pellentesque eros.</p>\n</div>",
-            "image": "https://JoCharlet.github.io/zepya/media/posts/4/",
+            "image": "https://JoCharlet.github.io/zepya/media/posts/4/Octocat.png",
             "author": {
                 "name": "Jonathan Charlet"
             },
             "tags": [
+                   "Techno web",
+                   "Dépenser moins"
             ],
             "date_published": "2019-01-28T19:06:02+01:00",
-            "date_modified": "2019-01-28T19:08:31+01:00"
+            "date_modified": "2019-01-28T21:00:51+01:00"
         },
         {
             "id": "https://JoCharlet.github.io/zepya/publii/",
