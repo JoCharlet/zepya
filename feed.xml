@@ -3,21 +3,45 @@
     <title>Zepya</title>
     <link href="https://JoCharlet.github.io/zepya/feed.xml" rel="self" />
     <link href="https://JoCharlet.github.io/zepya" />
-    <updated>2019-01-28T19:48:22+01:00</updated>
+    <updated>2019-01-28T19:54:42+01:00</updated>
     <author>
         <name>Zepya</name>
     </author>
     <id>https://JoCharlet.github.io/zepya</id>
 
     <entry>
-        <title>disqus</title>
+        <title>Google Custom Search - Module recherche dans publii</title>
+        <author>
+            <name>Zepya</name>
+        </author>
+        <link href="https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii.html"/>
+        <id>https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii.html</id>
+
+        <updated>2019-01-28T19:54:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://JoCharlet.github.io/zepya/media/posts/9/" alt="" />
+                    Lorem ipsum https://getpublii.com/docs/search-configuration.html 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://JoCharlet.github.io/zepya/media/posts/9/" alt="" />
+                <p>Lorem ipsum</p>
+<hr>
+<p><a href="https://getpublii.com/docs/search-configuration.html">https://getpublii.com/docs/search-configuration.html</a> </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>disqus - ajouter des commentaires dans Publii</title>
         <author>
             <name>Zepya</name>
         </author>
         <link href="https://JoCharlet.github.io/zepya/disqus.html"/>
         <id>https://JoCharlet.github.io/zepya/disqus.html</id>
 
-        <updated>2019-01-28T19:48:07+01:00</updated>
+        <updated>2019-01-28T19:51:34+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JoCharlet.github.io/zepya/media/posts/8/" alt="" />
@@ -53,14 +77,14 @@ s.setAttribute('data-timestamp', +new Date());
         </content>
     </entry>
     <entry>
-        <title>Tawk.to</title>
+        <title>Tawk.to - ajouter un </title>
         <author>
             <name>Zepya</name>
         </author>
         <link href="https://JoCharlet.github.io/zepya/tawkto.html"/>
         <id>https://JoCharlet.github.io/zepya/tawkto.html</id>
 
-        <updated>2019-01-28T19:38:55+01:00</updated>
+        <updated>2019-01-28T19:53:26+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JoCharlet.github.io/zepya/media/posts/7/" alt="" />
