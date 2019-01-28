@@ -3,32 +3,34 @@
     <title>Zepya</title>
     <link href="https://JoCharlet.github.io/zepya/feed.xml" rel="self" />
     <link href="https://JoCharlet.github.io/zepya" />
-    <updated>2019-01-28T19:54:42+01:00</updated>
+    <updated>2019-01-28T20:54:53+01:00</updated>
     <author>
-        <name>Zepya</name>
+        <name>Jonathan Charlet</name>
     </author>
     <id>https://JoCharlet.github.io/zepya</id>
 
     <entry>
         <title>Google Custom Search - Module recherche dans publii</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii.html"/>
-        <id>https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii.html</id>
+        <link href="https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii/"/>
+        <id>https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii/</id>
+            <category term="Techno web"/>
 
-        <updated>2019-01-28T19:54:32+01:00</updated>
+        <updated>2019-01-28T20:42:22+01:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://JoCharlet.github.io/zepya/media/posts/9/" alt="" />
+                        <img src="https://JoCharlet.github.io/zepya/media/posts/9/telescope-2127704_1920.jpg" alt="Search" />
                     Lorem ipsum https://getpublii.com/docs/search-configuration.html 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://JoCharlet.github.io/zepya/media/posts/9/" alt="" />
+                    <img src="https://JoCharlet.github.io/zepya/media/posts/9/telescope-2127704_1920.jpg" alt="Search" />
                 <p>Lorem ipsum</p>
 <hr>
+<h2>Sources</h2>
 <p><a href="https://getpublii.com/docs/search-configuration.html">https://getpublii.com/docs/search-configuration.html</a> </p>
             ]]>
         </content>
@@ -36,10 +38,10 @@
     <entry>
         <title>disqus - ajouter des commentaires dans Publii</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/disqus.html"/>
-        <id>https://JoCharlet.github.io/zepya/disqus.html</id>
+        <link href="https://JoCharlet.github.io/zepya/disqus/"/>
+        <id>https://JoCharlet.github.io/zepya/disqus/</id>
 
         <updated>2019-01-28T19:51:34+01:00</updated>
             <summary>
@@ -79,10 +81,10 @@ s.setAttribute('data-timestamp', +new Date());
     <entry>
         <title>Tawk.to - ajouter un </title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/tawkto.html"/>
-        <id>https://JoCharlet.github.io/zepya/tawkto.html</id>
+        <link href="https://JoCharlet.github.io/zepya/tawkto/"/>
+        <id>https://JoCharlet.github.io/zepya/tawkto/</id>
 
         <updated>2019-01-28T19:53:26+01:00</updated>
             <summary>
@@ -110,10 +112,10 @@ s.setAttribute('data-timestamp', +new Date());
     <entry>
         <title>Nom de domaine avec GitHub pages</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/nom-de-domaine-avec-github-pages.html"/>
-        <id>https://JoCharlet.github.io/zepya/nom-de-domaine-avec-github-pages.html</id>
+        <link href="https://JoCharlet.github.io/zepya/nom-de-domaine-avec-github-pages/"/>
+        <id>https://JoCharlet.github.io/zepya/nom-de-domaine-avec-github-pages/</id>
 
         <updated>2019-01-28T19:07:38+01:00</updated>
             <summary>
@@ -138,10 +140,10 @@ s.setAttribute('data-timestamp', +new Date());
     <entry>
         <title>Choisir un nom de domaine</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/choisir-un-nom-de-domaine.html"/>
-        <id>https://JoCharlet.github.io/zepya/choisir-un-nom-de-domaine.html</id>
+        <link href="https://JoCharlet.github.io/zepya/choisir-un-nom-de-domaine/"/>
+        <id>https://JoCharlet.github.io/zepya/choisir-un-nom-de-domaine/</id>
 
         <updated>2019-01-28T19:07:06+01:00</updated>
             <summary>
@@ -166,10 +168,10 @@ s.setAttribute('data-timestamp', +new Date());
     <entry>
         <title>GitHub Pages</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/github-pages.html"/>
-        <id>https://JoCharlet.github.io/zepya/github-pages.html</id>
+        <link href="https://JoCharlet.github.io/zepya/github-pages/"/>
+        <id>https://JoCharlet.github.io/zepya/github-pages/</id>
 
         <updated>2019-01-28T19:08:31+01:00</updated>
             <summary>
@@ -194,10 +196,10 @@ s.setAttribute('data-timestamp', +new Date());
     <entry>
         <title>Publii</title>
         <author>
-            <name>Zepya</name>
+            <name>Jonathan Charlet</name>
         </author>
-        <link href="https://JoCharlet.github.io/zepya/publii.html"/>
-        <id>https://JoCharlet.github.io/zepya/publii.html</id>
+        <link href="https://JoCharlet.github.io/zepya/publii/"/>
+        <id>https://JoCharlet.github.io/zepya/publii/</id>
 
         <updated>2019-01-28T19:06:58+01:00</updated>
             <summary>
