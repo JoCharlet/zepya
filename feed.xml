@@ -3,7 +3,7 @@
     <title>Zepya</title>
     <link href="https://JoCharlet.github.io/zepya/feed.xml" rel="self" />
     <link href="https://JoCharlet.github.io/zepya" />
-    <updated>2019-01-28T21:02:43+01:00</updated>
+    <updated>2019-01-31T11:46:21+01:00</updated>
     <author>
         <name>Jonathan Charlet</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii/</id>
             <category term="Techno web"/>
 
-        <updated>2019-01-28T20:42:22+01:00</updated>
+        <updated>2019-01-30T11:20:27+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://JoCharlet.github.io/zepya/media/posts/9/telescope-2127704_1920.jpg" alt="Search" />
@@ -29,7 +29,7 @@
             <![CDATA[
                     <img src="https://JoCharlet.github.io/zepya/media/posts/9/telescope-2127704_1920.jpg" alt="Search" />
                 <p>Lorem ipsum</p>
-<hr>
+<br><hr>
 <h2>Sources</h2>
 <p><a href="https://getpublii.com/docs/search-configuration.html">https://getpublii.com/docs/search-configuration.html</a> </p>
             ]]>

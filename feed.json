@@ -14,7 +14,7 @@
             "url": "https://JoCharlet.github.io/zepya/google-custom-search-module-recherche-dans-publii/",
             "title": "Google Custom Search - Module recherche dans publii",
             "summary": "Lorem ipsum https://getpublii.com/docs/search-configuration.html ",
-            "content_html": "<p>Lorem ipsum</p>\n<hr>\n<h2>Sources</h2>\n<p><a href=\"https://getpublii.com/docs/search-configuration.html\">https://getpublii.com/docs/search-configuration.html</a> </p>",
+            "content_html": "<p>Lorem ipsum</p>\n<br><hr>\n<h2>Sources</h2>\n<p><a href=\"https://getpublii.com/docs/search-configuration.html\">https://getpublii.com/docs/search-configuration.html</a> </p>",
             "image": "https://JoCharlet.github.io/zepya/media/posts/9/telescope-2127704_1920.jpg",
             "author": {
                 "name": "Jonathan Charlet"
@@ -23,7 +23,7 @@
                    "Techno web"
             ],
             "date_published": "2019-01-28T19:54:20+01:00",
-            "date_modified": "2019-01-28T20:42:22+01:00"
+            "date_modified": "2019-01-30T11:20:27+01:00"
         },
         {
             "id": "https://JoCharlet.github.io/zepya/disqus/",
